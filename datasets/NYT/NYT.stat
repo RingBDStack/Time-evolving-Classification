@@ -1,0 +1,31 @@
+extracted time steps: 1997-2006
+total examples/files number: 631312
+	 files number in each year:
+		 1997: 52691
+		 1998: 61802
+		 1999: 63151
+		 2000: 66988
+		 2001: 66950
+		 2002: 68598
+		 2003: 67213
+		 2004: 63496
+		 2005: 61629
+		 2006: 58794
+tokens statistics in the whole dataset:
+	 max sens per file: 2189
+	 min sens per file: 0
+	 mean sens per file: 31.07310331500114
+	 median sens per file: 26.0
+	 -----------------------------
+	 max tokens per sens(for all files): 2038
+	 min tokens per sens(for all files): 2
+	 mean tokens per sens(for all files): 10.202622157522653
+	 median tokens per sens(for all files): 9.0
+	 -----------------------------
+	 max tokens per file: 19032
+	 min tokens per file: 0
+	 mean tokens per file: 317.0271323846212
+	 median tokens per file: 280.0
+
+在使用这些文件时，还必须注意做一次预处理，将一个token也没有的无效文件剔除掉！！！
+	 
